@@ -6,13 +6,6 @@
       "age": 21,
       "test": "Spinner",
       "time": 10
-    },
-    {
-      "name": "Sidney",
-      "age": 30,
-      "test": "Spinner",
-      "time": 20,
-      "id": 2
     }
   ]
 }
