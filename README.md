@@ -1,19 +1,5 @@
 # loading-time
 
-## Project setup
-```
-npm install
-```
+## About this project:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a user experience experiment where I hope to learn an averaged perceived waiting time for two different animated progress markers to determine which is better suited to use in my final year project.
